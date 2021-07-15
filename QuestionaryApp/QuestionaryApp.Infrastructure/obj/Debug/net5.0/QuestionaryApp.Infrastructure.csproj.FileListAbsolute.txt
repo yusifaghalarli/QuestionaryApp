@@ -1,0 +1,5 @@
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Infrastructure\bin\Debug\net5.0\QuestionaryApp.Core.dll
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Infrastructure\obj\Debug\net5.0\QuestionaryApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Infrastructure\obj\Debug\net5.0\QuestionaryApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Infrastructure\obj\Debug\net5.0\QuestionaryApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Infrastructure\obj\Debug\net5.0\QuestionaryApp.Infrastructure.AssemblyInfo.cs

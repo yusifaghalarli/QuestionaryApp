@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pg6biPlsgtBS0eyaVjGZyFEWukqVGW3TWrsA9h77VQwVW7aYIXj9Q8IKBEAVzP3m76v6PLgumNK1QcL9YBVXiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yusif\\Desktop\\Questionary\\QuestionaryApp\\QuestionaryApp.Application\\QuestionaryApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusif\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Yusif\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yusif\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

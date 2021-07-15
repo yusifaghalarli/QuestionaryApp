@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "LocalConnection": "Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=QuestionaryApp_Yusif;Integrated Security=True;Connect Timeout=30; Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+  }
+}

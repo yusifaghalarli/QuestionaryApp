@@ -1,0 +1,12 @@
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\bin\Debug\net5.0\QuestionaryApp.Core.deps.json
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\bin\Debug\net5.0\QuestionaryApp.Core.dll
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\bin\Debug\net5.0\ref\QuestionaryApp.Core.dll
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\bin\Debug\net5.0\QuestionaryApp.Core.pdb
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\obj\Debug\net5.0\QuestionaryApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\obj\Debug\net5.0\QuestionaryApp.Core.AssemblyInfoInputs.cache
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\obj\Debug\net5.0\QuestionaryApp.Core.AssemblyInfo.cs
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\obj\Debug\net5.0\QuestionaryApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\obj\Debug\net5.0\QuestionaryApp.Core.dll
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\obj\Debug\net5.0\ref\QuestionaryApp.Core.dll
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\obj\Debug\net5.0\QuestionaryApp.Core.pdb
+C:\Users\Yusif\source\repos\QuestionaryApp\QuestionaryApp.Core\obj\Debug\net5.0\QuestionaryApp.Core.csprojAssemblyReference.cache
